@@ -47,10 +47,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mahidi99&theme=omni&hide_border=false" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+- 📨 Email: **mahidimahashi99@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/mahidi-wijayantha)
+- 💻 [Portfolio](https://mahidi.me)
