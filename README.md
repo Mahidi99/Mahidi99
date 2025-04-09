@@ -49,6 +49,16 @@
 
 ---
 
+## 🧩 Projects Highlight
+
+- **🤖 AI-Agent for E-Commerce** – AI-powered e-commerce assistant to enhance online shopping with conversational product search, smart cart management, and automated descriptions (Node.js, Laravel)
+- **🛍️ dilanfashionhouse.com** – Fashion E-Commerce Web App (Livewire, Laravel, PHP)
+- **👕 Name Recommender System for Fashion Products** – Recommending names for fashion products using image captioning on single-object images and multiple-object images (Python, Flask, PyTorch, FastAI, React.js)
+- **💬 Real-Time Chat App** – Secure messaging with one-on-one & group chats, media sharing, and notifications using MERN stack & WebSockets (MongoDB, Express.js, React.js, Node.js)
+- **🐦 Twitter Sentiment Analyzer** – Web App to analyze real-time customer sentiment on Twitter and generates comprehensive PDF reports for businesses (Angular, NLTK, Python, Flask)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
