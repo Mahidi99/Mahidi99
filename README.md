@@ -62,3 +62,10 @@
 - 📨 Email: **mahidimahashi99@gmail.com**
 - 💼 [LinkedIn](https://linkedin.com/in/mahidi-wijayantha)
 - 💻 [Portfolio](https://mahidi.me)
+
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mahidi99/count.svg?" />
+</div>
